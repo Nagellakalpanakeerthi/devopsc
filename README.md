@@ -1,2 +1,1 @@
-# devopsc
-my first repository
+# ArcGISPlatform_Demos
